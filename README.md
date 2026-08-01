@@ -50,23 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyajain327&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyajain327&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyajain327&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ananyajain327&theme=onedark&no-bg=true&no-frame=true&margin-w=10)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ananyajain327&color=6E57F7&style=for-the-badge)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-jain327)
