@@ -12,17 +12,7 @@
 - 💻 Skilled in **Java, JSP, Servlets, JDBC & MySQL**
 - 🚀 Built & deployed 2 full-stack web apps — **Commuto** & **StudyMate** (live on Railway)
 - 🌱 Currently focusing on **Data Structures & Algorithms (Java)** and **Backend Development**
-- 📊 Practising problem-solving on **LeetCode** & **GeeksforGeeks** — solving problems daily
 - 🎓 Always learning, always growing
-
----
-
-## 📈 DSA / Competitive Programming
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-
-> Solving DSA problems in Java — focused on **arrays, strings, dynamic programming, trees & graphs**.
 
 ---
 
